@@ -1,6 +1,6 @@
 ### Oi, Paulo Victor aqui! :wave:
 
-Olá, sou o Paulo Victor, sempre me interessei por computadores e tecnologia. Por volta de 2015 conheci programação, de lá pra cá venho aprendendo bastante. Recentimente começei a trabalhar com desenvolvimento web utilizando principalmente tecnologias como PHP, Magento e JavaScript.
+Olá, sou o Paulo Victor, sempre me interessei por computadores e tecnologia. Por volta de 2015 conheci programação, de lá pra cá venho aprendendo bastante. Recentemente comecei a trabalhar com desenvolvimento web utilizando principalmente tecnologias como PHP, Magento e JavaScript.
 <br />
 
 **O que estou estudando:**
