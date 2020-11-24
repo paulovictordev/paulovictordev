@@ -13,21 +13,9 @@ Olá, sou o Paulo Victor, sempre me interessei por computadores e tecnologia. Po
 
 <br />
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=paulovictordev&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
-<br />
-
 **Você consegue me encontar aqui:**
 
-<a href="https://www.linkedin.com/in/paulo-victor/" target="_blank">
+<a href="https://www.linkedin.com/in/paulovictordev/" target="_blank">
   <img src="https://raw.githubusercontent.com/paulovictordev/paulovictordev/master/assets/linkedin.svg" width="21px"  alt="Paulo Victor | LinkedIn" align="left" />
 </a>
 
