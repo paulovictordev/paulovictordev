@@ -26,3 +26,9 @@ Olá, sou o Paulo Victor, sempre me interessei por computadores e tecnologia. Po
 <a href="http://t.me/paulovictordev" target="_blank">
   <img src="https://raw.githubusercontent.com/paulovictordev/paulovictordev/master/assets/telegram.svg" width="21px"  alt="Meu Telegram" align="left" />
 </a>
+
+<br />
+
+<p style="display:none;">
+  ![Visitas no perfil](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=paulovictordev&repo=paulovictordev&countColorcountColor)
+</p>
