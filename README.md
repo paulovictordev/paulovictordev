@@ -28,6 +28,7 @@ Olá, sou o Paulo Victor, sempre me interessei por computadores e tecnologia. Po
 </a>
 
 <br />
+<br />
 
 ![Visitas no perfil](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=paulovictordev&repo=paulovictordev&countColorcountColor)
 
